@@ -315,14 +315,14 @@ h1 {
 ul.menu {
 	display:inline-block;
 	display:block;
-	padding:0px 0 0px 0px;
+	padding:46px 0 70px 21px;
 }
 ul.menu li {
 	float:left;
 	display:inline-block;
-	line-height:24px;
+	line-height:0px;
 	background:url(../images/li.png) 0 0 no-repeat;
-	padding:0 34px 0 43px;
+	padding:0 0px 0 0px;
 }
 ul.menu li.li-none {
 	background:transparent;
