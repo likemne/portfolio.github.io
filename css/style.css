@@ -184,6 +184,20 @@ ul.list-3 li span.extra-wrap a:hover {
 	color:#fff;
 	text-decoration:underline;
 }
+ul.icons {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+		}
+
+			ul.icons li {
+				display: inline-block;
+				padding: 0 1em 0 0;
+			}
+
+				ul.icons li:last-child {
+					padding-right: 0;
+				}
 /******************************************************************/
 .clear {
 	clear:both;
