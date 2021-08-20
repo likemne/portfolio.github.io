@@ -1,6 +1,6 @@
 body {
 	line-height: 1.7;
-	color: lighten($black, 50%);
+	color: lighten($black, 100%);
 	font-weight: 400;
 	font-size: $font-size-base;
 	background: $black;
@@ -278,7 +278,7 @@ h1, h2, h3, h4, h5,
 			right: 0;
 			bottom: 0;
 			z-index: 0;
-			width: 50%;
+			width: 10%;
 			background: rgba(0,0,0,.7);
 		}
 	}
